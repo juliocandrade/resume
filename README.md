@@ -1,3 +1,3 @@
-# Template de Currículo 
+# Curriculum Vitae (CV) Online
 
-Template em HTML e CSS para um breve hands on durante a Master Class "Criando um Currículo de Sucesso - O Passo a Passo em Tempo Real".
+Referência W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
